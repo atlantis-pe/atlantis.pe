@@ -1,2 +1,3 @@
-[ ] Crear el logotipo de atlantis.
-[ ] Crear formulario de contacto.
+- [x] Instalar Git plugin
+- [ ] Crear el logotipo de atlantis.
+- [ ] Crear formulario de contacto.
