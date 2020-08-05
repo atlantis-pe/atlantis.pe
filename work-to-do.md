@@ -1,2 +1,2 @@
-- [ ] Crear el logotipo de atlantis.
-- [ ] Crear formulario de contacto.
+[ ] Crear el logotipo de atlantis.
+[ ] Crear formulario de contacto.
